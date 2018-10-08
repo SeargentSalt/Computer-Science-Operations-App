@@ -1,0 +1,20 @@
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.exe.config
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.exe
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.pdb
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.Properties.Resources.resources
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.Cache
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.exe
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.pdb
+C:/Users/stopf/OneDrive/Documents/Visual Studio 2017/Source/Repos/MinMaxMeanMedianModeSelectionSort/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csprojResolveAssemblyReference.cache
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.exe.config
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.exe
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/bin/Debug/SelectionSort.pdb
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csprojAssemblyReference.cache
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.MinMaxMedianModeSelectionSortForm.resources
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.Properties.Resources.resources
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csproj.GenerateResource.cache
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/MinMaxMeanMedianModeSelectionSort.csproj.CoreCompileInputs.cache
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.exe
+/Users/Ajay/Grade 12/Computer Science /MinMaxMeanMedianModeSelectionSort - Blank/MinMaxMeanMedianModeSelectionSort/obj/Debug/SelectionSort.pdb
